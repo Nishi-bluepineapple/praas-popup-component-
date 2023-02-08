@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
+        <config_layout/>
+        <description>A description of my component</description>
+        <external_configuration_sources/>
+        <icon>document-outline</icon>
+        <label>My Component</label>
+        <macroponent display_value="My Component">58020a6e359f0f39cbfa71a4c70f1841</macroponent>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>nishi</sys_created_by>
+        <sys_created_on>2021-05-14 13:25:08</sys_created_on>
+        <sys_id>1585dc5202aa70efaa2fe610850bda48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Component</sys_name>
+        <sys_package display_value="@bluepineapple/praas-popup-component" source="x_ntip_bluepinea_1">2b3f9f071bf7e410f3c74156bc4bcbdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="@bluepineapple/praas-popup-component">2b3f9f071bf7e410f3c74156bc4bcbdc</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_1585dc5202aa70efaa2fe610850bda48</sys_update_name>
+        <sys_updated_by>nishi</sys_updated_by>
+        <sys_updated_on>2021-05-14 13:25:08</sys_updated_on>
+    </sys_uib_toolbox_component>
+</record_update>
