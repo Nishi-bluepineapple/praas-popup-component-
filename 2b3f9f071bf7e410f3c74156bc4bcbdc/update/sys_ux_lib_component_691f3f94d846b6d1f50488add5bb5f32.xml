@@ -3,9 +3,11 @@
         <default_children/>
         <default_layout/>
         <deprecated>false</deprecated>
+        <inner_components/>
         <overrides/>
         <required_sys_props/>
         <required_translation_keys/>
+        <required_user_prefs/>
         <source_script/>
         <source_script_name>@bluepineapple/praas-popup-component</source_script_name>
         <sys_class_name>sys_ux_lib_component</sys_class_name>
